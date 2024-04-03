@@ -1,4 +1,4 @@
-# Redis labb
+# Redis lab
 Lab using Python and a Redis database
 
 Simon Niklasson
